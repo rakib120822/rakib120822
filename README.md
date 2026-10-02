@@ -3,10 +3,11 @@
   <img src="https://i.ibb.co/M5SjHqL6/Designer.png" alt="Cover Banner" />
 </p>
 
+
 <!-- Typing Name -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=700&height=60&lines=It's me%2C+Rakibul+Islam+Payel!+🍄;Junior+Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Always+Leveling+Up+🚀" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&center=true&vCenter=true&width=700&height=60&lines=It%27s-a+me%2C+Rakibul+Islam+Payel!;Junior+Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Always+Leveling+Up" alt="Typing SVG" />
   </a>
 </h1>
 
