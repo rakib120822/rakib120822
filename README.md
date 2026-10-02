@@ -16,12 +16,6 @@ Hi! I'm Rakib from Chattogram, Bangladesh. I'm a Petroleum and Mining Engineerin
 
 I've also solved **100+ problems on Codeforces**, which keeps my data structures and problem-solving skills sharp.
 
-### 🔥 Currently
-- 🚀 Building **Zap Shift**
-- 🌱 Going deeper into advanced React, Next.js, and TypeScript
-- 🗄️ Exploring PostgreSQL and Prisma
-- 🧩 Contributing to open source
-
 ---
 
 # 🚀 Featured Projects
@@ -91,9 +85,9 @@ I've also solved **100+ problems on Codeforces**, which keeps my data structures
 ## 🌐 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:payelrakibulislam@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakibul-islam-payel/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://stalwart-sunburst-692be5.netlify.app/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rakibul.islam.466934/)
 
 <p align="center">
   <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=rakib120822&icon=0&color=0" alt="Visitor count" /></a>
