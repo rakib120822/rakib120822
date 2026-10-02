@@ -93,7 +93,7 @@ I've also solved **100+ problems on Codeforces**, which keeps my data structures
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rakib120822&theme=dark&hide_border=false" alt="Streak Bonus" />
+  <img src="https://streak-stats.demolab.com/?user=rakib120822&theme=dark&hide_border=false" alt="Streak Bonus" />
 </p>
 
 ---
