@@ -6,7 +6,7 @@
 <!-- Typing Name -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=700&height=60&lines=It's-a+me%2C+Rakibul+Islam+Payel!+🍄;Junior+Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Always+Leveling+Up+🚀" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=700&height=60&lines=It's me%2C+Rakibul+Islam+Payel!+🍄;Junior+Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Always+Leveling+Up+🚀" alt="Typing SVG">
   </a>
 </h1>
 
@@ -108,5 +108,5 @@ I've also solved **100+ problems on Codeforces**, which keeps my data structures
 </p>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=rakib120822&icon=0&color=0" alt="Visitor count" /></a>
+  <img src="https://komarev.com/ghpvc/?username=rakib120822&label=Coins+Collected&color=ffcc00&style=for-the-badge" alt="Visitor count" />
 </p>
