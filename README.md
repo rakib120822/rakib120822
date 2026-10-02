@@ -31,11 +31,9 @@ I've also solved **100+ problems on Codeforces**, which keeps my data structures
 
 | Level | Description | Power-Ups (Tech) | Links |
 |---|---|---|---|
-| **🎨 Artify** | Art-sharing platform where artists upload, showcase, and manage their artwork, with name-based search and role-based UI | React, Tailwind CSS, Firebase Auth, Node.js, Express, MongoDB | [Live](#) · [Client](#) · [Server](#) |
-| **🎫 TicketBari** | Online booking platform for bus, boat, car, train, and flight tickets with payment integration and a role-based dashboard | React, Vite, Tailwind CSS, Firebase, Node.js, Express, MongoDB | [Live](#) · [Client](#) · [Server](#) |
-| **🧸 ToyTopia** | Local kids' toy store with detailed product pages and secure login | React, Tailwind CSS, Firebase, Swiper | [Live](#) · [Code](#) |
-
----
+| **🎨 Artify** | Art-sharing platform where artists upload, showcase, and manage their artwork, with name-based search and role-based UI | React, Tailwind CSS, Firebase Auth, Node.js, Express, MongoDB | [Live](https://artify-a-creative-showcase.web.app/) · [Client](https://github.com/rakib120822/artify-client) · [Server](https://github.com/rakib120822/artify-server) |
+| **🎫 TicketBari** | Online booking platform for bus, boat, car, train, and flight tickets with payment integration and a role-based dashboard | React, Vite, Tailwind CSS, Firebase, Node.js, Express, MongoDB | [Live](https://ticketbari-a338c.web.app/) · [Client](https://github.com/rakib120822/ticketbari-client) · [Server](https://github.com/rakib120822/ticketbari-server-side) |
+| **🧸 ToyTopia** | Local kids' toy store with detailed product pages and secure login | React, Tailwind CSS, Firebase, Swiper | [Live](https://toytopia-ecba0.web.app/) · [Client](https://github.com/rakib120822/toytopia-client) · [Server](https://github.com/rakib120822/toytopia-backend) |
 
 # ⭐ Skills & Power-Ups
 
